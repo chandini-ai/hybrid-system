@@ -5,7 +5,7 @@ A web app to generate QR codes and barcodes, scan images to decode codes, and do
 ## Getting started
 
 Prerequisites:
-- Node.js and npm installed (we recommend using nvm: https://github.com/nvm-sh/nvm)
+- Node.js and npm installed 
 
 Setup:
 ```sh
@@ -40,4 +40,4 @@ Build and run:
 docker build -t code-fusion-scanner .
 docker run -p 8080:80 code-fusion-scanner
 ```
-Open http://localhost:8080
+
