@@ -2,6 +2,8 @@
 
 A web app to generate QR codes and barcodes, scan images to decode codes, and download results.
 
+url for system is : https://hybrid-qr-barcode-system.netlify.app/
+
 ## Getting started
 
 Prerequisites:
